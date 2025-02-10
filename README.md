@@ -44,12 +44,12 @@ Model checkpoints are organized as follows:
 
 |Batch Size | Positive Views | Checkpoint Link |
 |-----------|----------------|-----------------|
-|64         | 4              | [Download](#)   |
-|128        | 4              | [Download](#)   |
-|256        | 4              | [Download](#)   |
-|256        | 1              | [Download](#)   |
-|256        | 2              | [Download](#)   |
-|256        | 6              | [Download](#)   |
+|64         | 4              | [Download](https://drive.google.com/file/d/1Nx4U5U73kDX6PdmoCJ0ZfXkKGaMEonG6/view?usp=sharing)   |
+|128        | 4              | [Download](https://drive.google.com/file/d/1Nx4U5U73kDX6PdmoCJ0ZfXkKGaMEonG6/view?usp=sharing)   |
+|256        | 4              | [Download](https://drive.google.com/file/d/1Nx4U5U73kDX6PdmoCJ0ZfXkKGaMEonG6/view?usp=sharing)   |
+|256        | 1              | [Download](https://drive.google.com/file/d/1Nx4U5U73kDX6PdmoCJ0ZfXkKGaMEonG6/view?usp=sharing)   |
+|256        | 2              | [Download](https://drive.google.com/file/d/1Nx4U5U73kDX6PdmoCJ0ZfXkKGaMEonG6/view?usp=sharing)   |
+|256        | 6              | [Download](https://drive.google.com/file/d/1Nx4U5U73kDX6PdmoCJ0ZfXkKGaMEonG6/view?usp=sharing)   |
 
 ## Linear Evaluation
 
